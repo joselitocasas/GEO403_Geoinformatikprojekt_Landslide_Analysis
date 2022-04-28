@@ -4,7 +4,7 @@ Documentation of the Semester Project for course 403 lectured by Dr. Markus Mein
 This repository is created to make our work available to the public and document the code which we used for our analysis of 
 landslide succeptibilty in central Vietnam (VGTB River Basin)
 
-The published code is used to asses and compare to bivariate  approaches for landslide modelling in Central Vietnam.
+The published code is used to asses and compare two bivariate  approaches (Statistical Index and Weighting Factor) for landslide modelling in Central Vietnam.
 
 Data is provided by http://leutra.geogr.uni-jena.de/vgtbRBIS/metadata/overview.php?view=geodata
 
