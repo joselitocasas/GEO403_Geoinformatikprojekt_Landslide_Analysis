@@ -4,6 +4,8 @@ Documentation of the Semester Project for course 403 lectured by Dr. Markus Mein
 This repository is created to make our work available to the public and document the code which we used for our analysis of 
 landslide succeptibilty in central Vietnam (VGTB River Basin)
 
+Data is provided by http://leutra.geogr.uni-jena.de/vgtbRBIS/metadata/overview.php?view=geodata
+
 Contributors of this Project
 Max Buchart
 Alina Sachse
